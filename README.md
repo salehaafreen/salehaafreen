@@ -9,7 +9,7 @@
   - 🧠 *AI-based Assistive Tools* for the visually impaired
 - 💞️ I’m looking to collaborate on **social impact tech**, **startup ideas**, and **open-source projects**
 - 🎤 I host podcasts and pitch events to spotlight student innovations
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/salehaafreen) or drop an email at `salehaafreen@email.com`
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/saleha-ahmed-03025424a/) or drop an email at `salehaafreen@email.com`
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve won 16 academic awards 🏅 and love ideating solutions for real-world problems 🌍
 
