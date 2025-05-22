@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m @salehaafreen (Afreen)
 
-- 👀 I’m interested in **software development**, **UX design**, and building impactful **tech for good** solutions
+- 👀 I’m interested in **software development** and building impactful **tech for good** solutions
 - 🌱 I’m currently learning **DSA**, **full-stack development**, and exploring **AI/ML** applications in social domains
 - 💼 I’m the **Incubator Head of ISET**, leading innovation and entrepreneurship initiatives at my university
 - 🚀 I’ve worked on projects like:
